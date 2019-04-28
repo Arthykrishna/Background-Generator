@@ -1,0 +1,31 @@
+h1{
+	font-size: 60px;
+	text-align: center;
+	letter-spacing: .5em;
+	text-transform: uppercase;
+    color: rgba(0,0,0,.5);
+}
+
+h2 {
+	font-size: 30px;
+	text-align: center;
+	letter-spacing: .5em;
+	text-transform: uppercase;
+    color: rgba(0,0,0,.5);
+}
+
+h3
+{
+	letter-spacing: normal;
+}
+
+#body1
+{ 
+  font: 'Raleway', sans-serif;
+  letter-spacing: .8em;
+  text-align: center;
+  color: rgba(0,0,0,.5);
+  top: 20%;
+  background: linear-gradient(to right, red, green);
+  
+ }
